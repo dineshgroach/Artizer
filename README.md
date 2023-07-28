@@ -1,6 +1,6 @@
 # Artizer
 
-This repsistory gives introduction to the prject which uses OpenAI GPT to summarize articles online.
+This repository gives introduction to the project which uses OpenAI GPT to summarize articles online.
 
 
-- Check the Project [Live](https://vocal-sprinkles-e307bd.netlify.app/)
+- View the Project [Live](https://vocal-sprinkles-e307bd.netlify.app/)
